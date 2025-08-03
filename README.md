@@ -15,6 +15,23 @@ The dashboard is fully interactive and enables users to filter data by region, c
 - Tracked KPIs such as Total Sales, Total Profit, Quantity, and Average Discount.
 - Visual breakdown of sales by region, segment, and category.
 
+## 📸 Screenshots
+
+### 🖥️ ALL TABLES
+![Dashboard Overview](screenshots/Screenshot%202025-05-13%20111723.png)
+
+### 📊 Sales Dashboard
+![KPIs & Trends](screenshots/Screenshot%202025-05-13%20230305.png)
+
+### 🌍 Sales Dashboard
+![Sales by Region](screenshots/Screenshot%202025-05-13%20230329.png)
+
+### 📦 Customer & Shipping Dashboard
+![Product Category Analysis](screenshots/Screenshot%202025-05-13%20230348.png)
+
+### 🚚Region Dashboard
+![Shipping Mode Analysis](screenshots/Screenshot%202025-05-13%20230404.png)
+
 ## 📂 How to Use
 1. Download the `Final.pbix` file.
 2. Open it using **Power BI Desktop**.
